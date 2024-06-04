@@ -1,4 +1,4 @@
-package DSA;
+
 /*
  * Input:
 	size = 4

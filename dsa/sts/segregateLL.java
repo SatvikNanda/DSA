@@ -1,4 +1,4 @@
-package DSA;
+
 // question is to segregate the even and odd nodes in the linked so that even nodes show up before the odd nodes
 
 import java.util.*;

@@ -1,8 +1,6 @@
 // in this problem there is a 2-d matrix, so a celebrity is the row which knows nobody and every one know him.
 // this means that if a row has all 0's and every row has 1 for that row then that row is a celebrity
 
-package DSA;
-
 import java.util.*;
 
 public class celebrity {
